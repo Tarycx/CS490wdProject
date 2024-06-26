@@ -1,0 +1,93 @@
+/* CSS Template */
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: lightblue;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+.resume {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background: lghtblue;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Header */
+header {
+    text-align: center;
+    border-bottom: 2px solid #333;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2em;
+}
+
+header p {
+    margin: 5px 0;
+}
+
+/* Section Titles */
+h2 {
+    margin-top: 5px;
+    border-bottom: 2px solid #333;
+    padding-bottom: 5px;
+}
+
+/* Professional Bio */
+.proBio-item,
+.proBio-item,
+.project-item {
+    margin-bottom: 20px;
+}
+
+
+/* ResumePDF */
+.pdf ul {
+    list-style-type: none;
+    padding-bottom: none;
+}
+
+.pdf ul li {
+    background: #333;
+    color: #fff;
+    display: inline-block;
+    padding: 5px 10px;
+    margin: 5px 5px 0 0;
+    border-radius: 5px;
+}
+
+/* Education Background */
+.education-grid {
+            /*display: grid;
+            grid-template-columns: repeat(3, 1fr); /* 3 columns */
+            gap: 10px;  space between items */
+	    
+           list-style-type: disc;
+           margin-left: 5px;
+	   padding: none
+
+}
+
+.education-grid li {
+    background-color: ligthblue;
+    padding: none;
+    
+    border: none;
+
+}
+
+
+
+/* Sources */
+.souce-item ul {
+    list-style-type: disc;
+    margin: 20px;
+}
