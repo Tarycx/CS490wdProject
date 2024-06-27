@@ -1,7 +1,7 @@
 /* CSS Template */
 
 /*
--Deveplment was aid with following souces-
+Deveploment was aid with following souces
 
 Souces:
 
@@ -130,6 +130,12 @@ h2 {
 }
 
 /* Projects */
+
+.projects ul {
+	list-style-type: disc;
+	margin: none;
+	
+}
 
 
 /* Sources */
