@@ -1,5 +1,7 @@
 # CS490wdProject
-CS490 Web Development midterm and final project deliverables 
+CS490 Web Development midterm and final project deliverables
+
+https://tarycx.github.io/CS490wdProject/
 
 -A GitHub account has been created and a website repository has been made with a URL
 
